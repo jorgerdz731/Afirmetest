@@ -8,6 +8,8 @@ public class AfirmetestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AfirmetestApplication.class, args);
+		System.out.println("Esta es el primer cambio en Git");
+
 	}
 
 }
